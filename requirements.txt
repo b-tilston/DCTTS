@@ -1,0 +1,28 @@
+python>=3.6
+tensorflow-gpu=1.14
+scipy==1.5.2
+numpy==1.18.2
+librosa 
+tqdm
+gast==0.2.2 (stops Conv1d errors)
+
+
+""" 
+	Delete this 
+
+Common Problems getting synthesise.py to run
+
+1. Download and unpack the LJSpeech Dataset or your dataset of choice and
+adjust where data directs to be the location of your dataset 
+(hyperparameters.py, line 35)
+
+2. Create a folder named "logdir" in your root project folder, then extract the pretrained 
+LJSpeech models 'LJ01-1' and 'LJ01-2' into this folder
+
+3. Create a samples folder in your project's root directory or it will complain about
+having nowhere to write the tts outputs specified in "harvard_sentences.txt" to
+
+If you encounter DLL errors, then try force uninstalling 
+programs installed through conda and use pip instead | 
+	Delete this 
+"""
