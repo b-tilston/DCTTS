@@ -5,7 +5,7 @@ Attempting to synthesise a voice that sounds like Sir Alec Guinness' voice from 
 trained on the LJSpeech dataset and with the use of transfer learning from the LJSpeech Dataset as 
 opposed to collecting a large dataset of audio samples from Sir Alec Guinness.
 
-https://dailyholonet.com/wp-content/uploads/2018/02/obi-wan_1977_COVER_1.jpeg
+![image](https://user-images.githubusercontent.com/57527630/141567168-20153029-a93d-4acd-94a1-43e5b8c0d1cd.png)
 
 Forked code and model from DCTTS(https://github.com/Kyubyong/dc_tts)
 outputs from the training of our model
