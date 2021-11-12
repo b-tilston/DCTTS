@@ -10,6 +10,8 @@ opposed to collecting a large dataset of audio samples from Sir Alec Guinness.
 Forked code and model from DCTTS(https://github.com/Kyubyong/dc_tts)
 outputs from the training of our model
 Project is somewhat rough with improvements possible with more research into voice cloning and speech synthesis
+
+See more info about this project at: 
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________ 
 A TensorFlow Implementation of DC-TTS: yet another text-to-speech model
 
